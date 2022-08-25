@@ -1,2 +1,2 @@
 # ttt
-Un finished Tic tac toe with save in Near
+Unfinished Tic tac toe with save in Near
