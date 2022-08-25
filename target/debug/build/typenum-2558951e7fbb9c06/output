@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/gkey/proj/NCPproj/target/debug/build/typenum-2558951e7fbb9c06/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/gkey/proj/NCPproj/target/debug/build/typenum-2558951e7fbb9c06/out/op.rs

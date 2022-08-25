@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/gkey/proj/NCPproj/target/wasm32-unknown-unknown/release/build/typenum-25025e4c8bf00c91/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/gkey/proj/NCPproj/target/wasm32-unknown-unknown/release/build/typenum-25025e4c8bf00c91/out/op.rs
